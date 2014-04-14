@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.android.gms.sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/exploded-aar/SimpleMaps/reference_v2_lib/unspecified/libs/com.google.android.gms.sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

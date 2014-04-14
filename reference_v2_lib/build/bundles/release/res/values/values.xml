@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/work/android/SimpleMaps/reference_v2_lib/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <attr name="mapType">
+        <enum name="normal" value="1" />
+        <enum name="satellite" value="2" />
+        <enum name="terrain" value="3" />
+        <enum name="hybrid" value="4" />
+    </attr>
+    <!-- From: file:/C:/work/android/SimpleMaps/reference_v2_lib/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="ref_v2_venue_button_background">#8A1d222a</color>
+    <color name="ref_v2_zoom_button_bg_color">#8A1d222a</color>
+    <color name="ref_v2_zoom_button_bg_disabled_color">#2A1d222a</color>
+    <color name="ref_v2_zoom_button_bg_pressed_color">#8A7E8082</color>
+    <!-- From: file:/C:/work/android/SimpleMaps/reference_v2_lib/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="mapAttrs">
+        <attr name="cameraBearing" format="float" />
+        <attr name="cameraTargetLat" format="float" />
+        <attr name="cameraTargetLng" format="float" />
+        <attr name="cameraTilt" format="float" />
+        <attr name="cameraZoom" format="float" />
+        <attr name="mapType" />
+        <attr name="uiCompass" format="boolean" />
+        <attr name="uiRotateGestures" format="boolean" />
+        <attr name="uiScrollGestures" format="boolean" />
+        <attr name="uiTiltGestures" format="boolean" />
+        <attr name="uiZoomControls" format="boolean" />
+        <attr name="uiZoomGestures" format="boolean" />
+        <attr name="useViewLifecycle" format="boolean" />
+        <attr name="zOrderOnTop" format="boolean" />
+    </declare-styleable>
+    <!-- From: file:/C:/work/android/SimpleMaps/reference_v2_lib/src/main/res/values/dimen.xml -->
+    <eat-comment />
+
+    <dimen name="ref_v2_overlay_button_margin">15dp</dimen>
+    <dimen name="ref_v2_zoom_button_corner_radius">20dp</dimen>
+    <dimen name="ref_v2_zoom_button_divider_height">1dp</dimen>
+    <dimen name="ref_v2_zoom_button_height">40dp</dimen>
+
+</resources>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res" >
+            <file
+                name="ref_v2_compass_button"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_compass_button.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_compass_indicator_states"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_compass_indicator_states.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_icon_tracking_on.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_icon_tracking_on_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_my_location_button_states"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_my_location_button_states.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_in_button_bg"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_in_button_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_in_button_bg_disabled"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_in_button_bg_disabled.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_in_button_bg_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_in_button_bg_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_in_button_states"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_in_button_states.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_minus"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_minus.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_out_button_bg"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_out_button_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_out_button_bg_disabled"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_out_button_bg_disabled.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_out_button_bg_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_out_button_bg_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_out_button_states"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_out_button_states.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_zoom_plus"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable\ref_v2_zoom_plus.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-hdpi\ref_v2_compass_day.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-hdpi\ref_v2_compass_day_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-hdpi\ref_v2_icon_tracking_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-hdpi\ref_v2_icon_tracking_on_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-ldpi\ref_v2_compass_day.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-ldpi\ref_v2_compass_day_pressed.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-ldpi\ref_v2_icon_tracking_on.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-ldpi\ref_v2_icon_tracking_on_pressed.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-mdpi\ref_v2_compass_day.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-mdpi\ref_v2_compass_day_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_down"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-mdpi\ref_v2_down.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-mdpi\ref_v2_icon_tracking_on.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-mdpi\ref_v2_icon_tracking_on_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_up"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-mdpi\ref_v2_up.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-xhdpi\ref_v2_compass_day.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_compass_day_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-xhdpi\ref_v2_compass_day_pressed.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-xhdpi\ref_v2_icon_tracking_on.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ref_v2_icon_tracking_on_pressed"
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\drawable-xhdpi\ref_v2_icon_tracking_on_pressed.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\values\attrs.xml"
+                qualifiers="" >
+                <attr name="mapType" >
+                    <enum
+                        name="normal"
+                        value="1" />
+                    <enum
+                        name="satellite"
+                        value="2" />
+                    <enum
+                        name="terrain"
+                        value="3" />
+                    <enum
+                        name="hybrid"
+                        value="4" />
+                </attr>
+
+                <declare-styleable name="mapAttrs" >
+                    <attr
+                        name="cameraBearing"
+                        format="float" />
+                    <attr
+                        name="cameraTargetLat"
+                        format="float" />
+                    <attr
+                        name="cameraTargetLng"
+                        format="float" />
+                    <attr
+                        name="cameraTilt"
+                        format="float" />
+                    <attr
+                        name="cameraZoom"
+                        format="float" />
+                    <attr name="mapType" />
+                    <attr
+                        name="uiCompass"
+                        format="boolean" />
+                    <attr
+                        name="uiRotateGestures"
+                        format="boolean" />
+                    <attr
+                        name="uiScrollGestures"
+                        format="boolean" />
+                    <attr
+                        name="uiTiltGestures"
+                        format="boolean" />
+                    <attr
+                        name="uiZoomControls"
+                        format="boolean" />
+                    <attr
+                        name="uiZoomGestures"
+                        format="boolean" />
+                    <attr
+                        name="useViewLifecycle"
+                        format="boolean" />
+                    <attr
+                        name="zOrderOnTop"
+                        format="boolean" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="ref_v2_zoom_button_bg_color" >#8A1d222a
+                </color>
+                <color name="ref_v2_venue_button_background" >#8A1d222a
+                </color>
+                <color name="ref_v2_zoom_button_bg_pressed_color" >#8A7E8082
+                </color>
+                <color name="ref_v2_zoom_button_bg_disabled_color" >#2A1d222a
+                </color>
+            </file>
+            <file
+                path="C:\work\android\SimpleMaps\reference_v2_lib\src\main\res\values\dimen.xml"
+                qualifiers="" >
+                <dimen name="ref_v2_zoom_button_corner_radius" >20dp
+                </dimen>
+                <dimen name="ref_v2_zoom_button_divider_height" >1dp
+                </dimen>
+                <dimen name="ref_v2_overlay_button_margin" >15dp
+                </dimen>
+                <dimen name="ref_v2_zoom_button_height" >40dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\work\android\SimpleMaps\reference_v2_lib\build\res\rs\release" />
+        <source path="C:\work\android\SimpleMaps\reference_v2_lib\build\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\work\android\SimpleMaps\reference_v2_lib\src\release\res" />
+    </dataSet>
+
+</merger>
