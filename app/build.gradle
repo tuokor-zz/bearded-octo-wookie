@@ -26,7 +26,7 @@ android {
 
 dependencies {
 
-    compile fileTree(dir: 'libs', include: ['*.jar'], exclude: 'com.google.android.gms.sdk.jar')
+    compile fileTree(dir: 'libs', include: ['*.jar'])
     googleCompile 'com.google.android.gms:play-services:4.+'
     nokiaCompile project(":reference_v2_lib")
 }
